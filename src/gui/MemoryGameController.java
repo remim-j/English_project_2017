@@ -15,10 +15,10 @@ import javafx.scene.layout.GridPane;
 import javafx.scene.paint.Color;
 import javafx.stage.DirectoryChooser;
 import javafx.util.StringConverter;
-import at.technikum.ode.memory.Guess;
-import at.technikum.ode.memory.ImageFileProvider;
-import at.technikum.ode.memory.MemoryGame;
-import at.technikum.ode.memory.MemoryGameBuilder;
+import memory.Guess;
+import memory.ImageFileProvider;
+import memory.MemoryGame;
+import memory.MemoryGameBuilder;
 import org.apache.log4j.Logger;
 
 
