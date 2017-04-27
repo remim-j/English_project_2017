@@ -1,4 +1,4 @@
-package at.technikum.ode.memory;
+package memory;
 
 /**
  * Created by Thomas on 15.01.16.
@@ -12,7 +12,7 @@ import org.apache.log4j.Logger;
  */
 public final class MemoryGameBuilder {
     final static Logger logger = Logger.getLogger(MemoryGameBuilder.class);
-    /* default values for at.technikum.ode.memory game */
+    
     private final ImageFileProvider imageFileProvider;
     private int maxNumberOfPairs = Integer.MAX_VALUE;
 
@@ -23,7 +23,7 @@ public final class MemoryGameBuilder {
 
     /**
      *
-     * @param maxNumberOfPairs upper bound for the number of pairs used by at.technikum.ode.memory game. The effective number of pairs used
+     * @param maxNumberOfPairs upper bound for the number of pairs used by memory game. The effective number of pairs used
      *                         might be lower and depends on the number of available images files
      * @return the instance of the MemoryGameBuilder
      */
