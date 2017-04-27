@@ -35,8 +35,8 @@
             </Insets>
 
         </padding>
-        <Button fx:id="restartGameButton" text="neues Spiel"/>
-        <Button fx:id="chooseRootDirButton" text="Bilder wählen" />
+        <Button fx:id="restartGameButton" text="New Game"/>
+        <Button fx:id="chooseRootDirButton" text="Change dir" />
     </HBox>
 
     <GridPane fx:id="memoryCardGrid"
