@@ -8,7 +8,7 @@
 <?import javafx.scene.control.ButtonBar?>
 <?import javafx.scene.layout.HBox?>
 <?import javafx.scene.control.Slider?>
-<VBox fx:controller="at.technikum.ode.gui.MemoryGameController" xmlns:fx="http://javafx.com/fxml" alignment="CENTER" spacing="3">
+<VBox fx:controller="gui.MemoryGameController" xmlns:fx="http://javafx.com/fxml" alignment="CENTER" spacing="3">
     <HBox alignment="CENTER">
         <Slider fx:id="gameLevelSlider">
             <min>4</min>
