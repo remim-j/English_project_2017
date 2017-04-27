@@ -29,10 +29,11 @@ import java.util.ResourceBundle;
 /**
  * The controller class which handles all user interaction
  */
+
 public final class MemoryGameController implements Initializable{
     final static Logger logger = Logger.getLogger(MemoryGameController.class);
     private static final int CARDS_PER_ROW = 4;
-    private final Image backSide = new Image("/images/helloKitty.png");
+    private final Image backSide = new Image("/images/english.jpg");
 
     private final EventHandler imageViewClickEventHandler = clickEventHandler();
 
