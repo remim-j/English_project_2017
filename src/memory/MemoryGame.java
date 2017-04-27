@@ -1,4 +1,4 @@
-package at.technikum.ode.memory;
+package memory;
 
 import org.apache.log4j.Logger;
 
