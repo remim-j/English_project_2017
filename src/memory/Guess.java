@@ -1,4 +1,4 @@
-package at.technikum.ode.memory;
+package memory;
 
 /**
  * Created by Thomas on 16.01.16.
