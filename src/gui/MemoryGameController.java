@@ -1,4 +1,4 @@
-package at.technikum.ode.gui;
+package gui;
 
 import javafx.event.Event;
 import javafx.event.EventHandler;
