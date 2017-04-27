@@ -1,4 +1,4 @@
-package at.technikum.ode.memory;
+package memory;
 
 import java.io.File;
 import java.util.Arrays;
